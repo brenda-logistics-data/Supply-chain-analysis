@@ -5,12 +5,16 @@ Análisis de la cadena de suministro de un startup de moda y belleza, con el obj
 - SQL Server: Limpieza y consultas
 - Excel: Análisis exploratorio
 - Power BI: Dashboard interactivo
-## KPIs analizados 📊
-- Costo promedio de envío por transportista
-- Lead time promedio por proveedor
-- Tasa de defectos por proveedor
-- Productos más vendidos por tipo
-- Nivel de stock vs ventas
+- 
+## Hallazgos principales 📊
+- **Skincare** es el producto más vendido y con mayores ingresos,
+  pero presenta riesgo de quiebre de stock por producción insuficiente
+- **Transportista C** tiene el mayor costo de envío y es el más lento
+- **Proveedor 1** tiene la mejor tasa de defectos;
+  **Proveedor 3** presenta el mayor lead time
+- **Ruta B** es la más costosa
+> Nota: Los tiempos de envío y lead times se asumen en días, ya que el dataset no especifica la unidad de medida.
+
 ## Estructura del repositorio 📁
 - `/sql` → Consultas SQL
 - `/excel` → Análisis exploratorio
