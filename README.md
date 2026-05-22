@@ -1,6 +1,6 @@
 # Supply Chain Analysis - Moda y Belleza 📦 
 ## Descripción 📌
-Análisis de la cadena de suministro de una startup de moda y belleza, con el objetivo de identificar oportunidades de mejora en costos, tiempos de entrega y calidad de proveedores.
+Análisis de la cadena de suministro de un startup de moda y belleza, con el objetivo de identificar oportunidades de mejora en costos, tiempos de entrega y calidad de proveedores.
 ## Herramientas utilizadas 🛠️
 - SQL Server: Limpieza y consultas
 - Excel: Análisis exploratorio
