@@ -23,9 +23,31 @@ tiempos de entrega y calidad de proveedores.
 > ya que el dataset no especifica la unidad de medida.
 
 ## Estructura del repositorio 📁
-- `/sql` → Consultas SQL
-- `/excel` → Análisis exploratorio
-- `/powerbi` → Dashboard interactivo y capturas
+```
+Supply-chain-analysis/
+│
+├── sql/
+│   ├── consultas.sql          ← código SQL completo
+│   ├── Consulta1.webp         ← productos más vendidos
+│   ├── Consulta2.webp         ← transportistas
+│   ├── Consulta3.webp         ← proveedores y defectos
+│   ├── Consulta4.webp         ← rutas de envío
+│   └── Consulta5.webp         ← stock vs ventas
+│
+├── excel/
+│   ├── análisis_exploratorio.xlsx ← Excel con tablas dinámicas
+│   ├── Ventas_por_producto.png
+│   ├── Transportistas.png
+│   ├── Stock_vs_Ventas.png
+│   └── Proveedores.png
+│
+├── powerbi/
+│   ├── Resumen_general.png
+│   ├── Inventario_y_logistica.png
+│   └── Calidad_y_proveedores.png
+│
+└── README.md
+```
 
 ## Estado 🚀
 ✅ Completado
